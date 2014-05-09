@@ -1,0 +1,3 @@
+newfun.h: In function ‘double hey()’:
+newfun.h:6: error: ‘cout’ is not a member of ‘std’
+newfun.h:6: error: ‘endl’ is not a member of ‘std’
